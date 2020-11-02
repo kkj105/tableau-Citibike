@@ -7,7 +7,7 @@ Including data from May 2019, September 2019, February 2020, May 2020, September
 
 Data has revealed the target Citibike user is a subscriber who is male, between the ages of 30-40 years of age. Of the 11.3 billion users within this dataset, Subscribers account for 62% and 39% are Short-term Customers. 
 
-# When looking at those users who choose to not declare their gender, those riders are overwhelmingly Customers rather than Subscribers.
+When looking at those users who choose to not declare their gender, those riders are overwhelmingly Customers rather than Subscribers.
 
 Analysis revealed a weakness in the method by which user birthdate is recorded – there is a spike of unknown Customers born in 1969. Whether this is due to 1969 being the default year for birthdate selection, it is clearly an anomaly in the dataset. 
 
